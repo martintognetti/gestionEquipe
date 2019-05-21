@@ -1,0 +1,6 @@
+2019-05-17 10:02:41 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 10:02:41 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-17 11:47:47 ERROR EquipeSpringApplication:36 - Message de log (error)
+2019-05-17 11:47:47 FATAL EquipeSpringApplication:37 - Message de log (fatal)
+2019-05-20 14:48:18 ERROR UserService:50 - [Ljava.lang.StackTraceElement;@bdda8a7
+2019-05-20 14:48:18 ERROR UserService:50 - [Ljava.lang.StackTraceElement;@2a9f8d47

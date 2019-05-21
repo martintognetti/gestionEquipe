@@ -1,2 +1,0 @@
-# gestionEquipe
-Adaming test
